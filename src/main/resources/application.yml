@@ -8,3 +8,4 @@ spring:
       database: ${MONGODB_DATABASE:users}
       username: ${MONGODB_USER:Kharkiv_student}
       password: ${MONGODB_PASS:Glory_to_Ukraine}
+      autoIndexCreation: true
